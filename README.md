@@ -20,6 +20,10 @@
   <a href="https://dev.to/tmsanghoclaptrinh"><img src="https://img.shields.io/badge/dev.to-tmsanghoclaptrinh-white"></a>
 </p>
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=tmsanghoclaptrinh/tai-lieu-lap-trinh-tieng-viet-mien-phi&type=Date)](https://www.star-history.com/#tmsanghoclaptrinh/tai-lieu-lap-trinh-tieng-viet-mien-phi&Date)
+
 
 ## Nội dung chính
 
