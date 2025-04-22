@@ -1,4 +1,4 @@
-# [Tờ Mờ Sáng học học Lập trình](/README.md)
+# [Tờ Mờ Sáng học Lập trình](/README.md)
 
 > 📚 Tổng hợp rất nhiều video và tài liệu học lập trình miễn phí bằng tiếng Việt
 > 
