@@ -20,6 +20,10 @@
   <a href="https://dev.to/tmsanghoclaptrinh"><img src="https://img.shields.io/badge/dev.to-tmsanghoclaptrinh-white"></a>
 </p>
 
+Tôi cũng đồng thời tạo 2 pull request để cập nhật danh sách này lên repo [free-programming-books](https://github.com/EbookFoundation/free-programming-books) và đã được duyệt. Anh em có thể xem tại đây:
+- Pull request 1: https://github.com/EbookFoundation/free-programming-books/pull/11866#issuecomment-2817572077
+- Pull request 2: https://github.com/EbookFoundation/free-programming-books/pull/11869#event-17338062241
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=tmsanghoclaptrinh/tai-lieu-lap-trinh-tieng-viet-mien-phi&type=Date)](https://www.star-history.com/#tmsanghoclaptrinh/tai-lieu-lap-trinh-tieng-viet-mien-phi&Date)
